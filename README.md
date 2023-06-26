@@ -13,8 +13,4 @@ The enchantment has three levels:
 + **Level 1**: 0,5% Chance of dropping
 + **Level 2**: 1% Chance of dropping
 + **Level 3**: 1,5% Chance of dropping
-
-Before 1.20:
-+ **Level 1**: 0,25% Chance of dropping
-+ **Level 2**: 0,5% Chance of dropping
-+ **Level 3**: 0,75% Chance of dropping
++ **Above Level 3**: 100% Chance of dropping
