@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "org.wolve.eggstractor.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "EggstractingMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

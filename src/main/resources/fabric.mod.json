@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "eggstractor",
+  "version": "1.2.1",
+  "name": "Eggstractor-Enchantment",
+  "description": "Adds a rare enchantment for swords that allows to collect Spawn Eggs in survival.",
+  "authors": ["WOLVE"],
+  "contact": {
+    "repo": ""
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/eggstractor/textures/item/eggstractor_1.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.wolve.eggstractor.EggstractorEnchantment"
+    ]
+  },
+  "mixins": [
+  "eggstractor.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+
+}
